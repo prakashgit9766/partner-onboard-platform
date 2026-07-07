@@ -25,3 +25,8 @@ It will provide:
 - OpenShift
 - Red Hat 3scale
 - GitHub Actions
+
+
+## Day 2
+
+Working on Partner Registration feature.
